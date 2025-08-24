@@ -1,0 +1,6 @@
+John,5000
+Alice,7000
+Bob,abc
+Charlie,1234.56
+David,999
+Eve,xyz
